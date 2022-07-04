@@ -4,7 +4,7 @@
 
 /**
  * main - print at random numbers
- * 	be it positive, negative, or zero
+ *	be it positive, negative, or zero
  *
  * Return: Always 0.
  */
@@ -22,5 +22,5 @@ int main(void)
 	else
 		printf("%d is zero\n", n);
 
-	return(0);
+	return (0);
 }
