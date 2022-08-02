@@ -1,7 +1,6 @@
+#ifndef SUM_H
+#define SUM_H
 
-#ifndef PI_H
-#define PI_H
-
-#define PI 3.14159265359
+#define SUM(x, y) ((x) + (y))
 
 #endif
